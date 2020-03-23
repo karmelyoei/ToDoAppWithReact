@@ -1,0 +1,15 @@
+* {
+  padding: 0;
+  margin: 0;
+}
+
+.to-do-list {
+  width: 269px;
+  height: auto;
+  box-shadow: 10px 10px 5px grey;
+  padding-left: 57px;
+  margin-left: 175px;
+  padding-top: 50px;
+  margin-top: 50px;
+  border: 1px solid;
+}
